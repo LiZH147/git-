@@ -45,4 +45,18 @@
   git log
   ```
 
++ 回滚至之后的版本
+
+  ```
+  git log //用于查看版本号
+  git reset --hard 版本号
+  ```
+
++ 回滚至之前的版本
+
+  ```
+  git reflog
+  git reset --hard 版本号
+  ```
+
   
