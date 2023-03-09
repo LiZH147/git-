@@ -71,7 +71,7 @@
   	master是主干，其余分支可在创建时自由命名
   git branch '分支名' //创建分支
   
-  git checkout '分支名' //切换分支
+  git checkout 分支名 //切换分支
   ```
 
   
