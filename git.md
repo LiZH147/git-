@@ -59,4 +59,19 @@
   git reset --hard 版本号
   ```
 
+
+
+
+## Day2
+
++ 生成分支
+
+  ```
+  git branch // 查看分支信息
+  	master是主干，其余分支可在创建时自由命名
+  git branch '分支名' //创建分支
+  
+  git checkout '分支名' //切换分支
+  ```
+
   
